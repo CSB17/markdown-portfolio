@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* food
+* drink
+* netflix
+* football 
+
+1. football
+  * liverpool
+  
